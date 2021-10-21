@@ -1,5 +1,8 @@
 export const state = () => ({
-  routes: [{ name: 'index', label: 'Home' }],
+  routes: [
+    { name: 'index', label: 'Home' },
+    { name: 'call-plugin', label: 'Call plugin' }
+  ]
 })
 
 export const actions = {}

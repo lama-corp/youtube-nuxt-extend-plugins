@@ -12,9 +12,8 @@
     "lint": "yarn lint:js && yarn lint:style"
   },
   "dependencies": {
-    "core-js": "^3.15.1",
-    "nuxt": "^2.15.7",
-    "youtube-nuxt-base": "file:C:\\Users\\romai\\Documents\\Projects\\LamaCodeur\\Code\\youtube-nuxt-base"
+    "lodash-es": "^4.17.21",
+    "youtube-nuxt-base": "lama-corp/youtube-nuxt-base"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
